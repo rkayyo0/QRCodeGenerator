@@ -1,2 +1,2 @@
 # QRCodeGenerator
-small QRCode Generator
+small QRCode Generator (nothing fancy just for fun)
